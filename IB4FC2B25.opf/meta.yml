@@ -1,0 +1,25 @@
+id: IB4FC2B25
+default_language: en-us
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 18:03:24.376010+00:00
+last_modified: 2022-12-14 18:03:24.376016+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-061-006
+  title: Toh_186-The_Teaching_on_the_Extraordinary_Transformation-v2
+bases:
+  B898:
+    source_metadata: null
+    order: 1
+    base_file: B898.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
